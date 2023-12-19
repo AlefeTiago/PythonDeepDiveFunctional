@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.PythonDeepDive1/
 
 # Spyder project settings
 .spyderproject
